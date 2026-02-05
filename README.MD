@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
-<a href="https://github.com/Arsenic-Roleplay/Changelog/releases" target="_blank">
-  <img src="https://img.shields.io/badge/Releases-1abc9c?style=for-the-badge" alt="Releases"/>
-</a>
-
 <a href="https://github.com/Arsenic-Roleplay/Changelog/releases/latest" target="_blank">
   <img src="https://img.shields.io/badge/Latest%20Release-v1.0.0-blue?style=for-the-badge" alt="Latest Release"/>
+</a>
+
+<a href="https://github.com/Arsenic-Roleplay/Changelog/releases" target="_blank">
+  <img src="https://img.shields.io/badge/Releases-1abc9c?style=for-the-badge" alt="Releases"/>
 </a>
 
 </p>
